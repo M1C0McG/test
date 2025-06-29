@@ -1,9 +1,6 @@
 Friday Saturday Sunday
 Mico McGovern
 Fun about to begin
-<<<<<<< HEAD
 Groundhog day 
 Change from someone else
-=======
-Groundhog day
->>>>>>> a762cf2 (Foo continues to change)
+Mico McGovern
